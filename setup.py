@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 install_requires = [
     'pyfaidx>=0.5.3.1',
     'pysam>=0.11.2.2',
-    'Pillow>=2.0.0',
+    'Pillow==9.0',
     'pytabix>=0.0.2'
 ]
 
@@ -21,12 +21,12 @@ extras_require = {
 
 setup(name='bamsnap',
       version='0.2.19',
-      url='https://github.com/danielmsk/bamsnap',
+      url='https://github.com/yeeus/bamsnap/',
       license='MIT',
       author='Daniel Minseok Kwon',
       author_email='daniel.minseok.kwon@gmail.com',
       description='A converter from .bam to .png for specific genomic region.',
-      download_url='https://github.com/danielmsk/bamsnap/archive/0.1.tar.gz',
+      # download_url='https://github.com/danielmsk/bamsnap/archive/0.1.tar.gz',
       keywords=['genomics', 'bioinformatics'],
       classifiers=[
           'Operating System :: OS Independent',
