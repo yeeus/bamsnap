@@ -1,7 +1,7 @@
 # BamSnap
 BamSnap: a lightweight command-based visualization tool for sequencing reads in BAM files
 
-This is a fork from https://githubfast.com/zy041225/bamsnap.
+This is a fork from https://github.com/zy041225/bamsnap.
 For more details, see BamSnap [**Documentation**](http://bamsnap.readthedocs.io/en/latest).
 ## Installation
 
