@@ -18,7 +18,7 @@ For more details, see BamSnap [**Documentation**](http://bamsnap.readthedocs.io/
 ### Install with github
 
 ```
-git clone https://githubfast.com/yeeus/bamsnap.git
+git clone https://github.com/yeeus/bamsnap.git
 cd bamsnap
 python setup.py install
 ```
